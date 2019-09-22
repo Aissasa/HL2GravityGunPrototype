@@ -1,0 +1,7 @@
+HalfLife2Playground/Binaries/
+HalfLife2Playground/Intermediate/
+HalfLife2Playground/Saved/
+*.sln
+*.db
+*.opendb
+HalfLife2Playground/.vs/
